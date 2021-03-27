@@ -1,0 +1,23 @@
+{
+    "name": "com.matthewgonzalezmansilla.unity-tools",
+    "version": "1.0.0",
+    "displayName": "Unity Tools",
+    "description": "A collection of utility classes for Unity for academic purposes",
+    "unity": "2020.3",
+    "dependencies": {},
+    "keywords": [
+        "tools",
+        "utility",
+        "utilities",
+        "singleton",
+        "persistent singleton",
+        "events",
+        "object pool",
+        "read only"
+    ],
+    "author": {
+        "name": "Matthew Gonzalez Mansilla",
+        "email": "matthewgonzalezmansilla@gmail.com",
+        "url": "https://github.com/Matthew-Gonzalez"
+    }
+}

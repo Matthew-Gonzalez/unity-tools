@@ -1,0 +1,18 @@
+{
+    "name": "com.matthewgonzalezmansilla.Editor.unity-tools",
+    "rootNamespace": "",
+    "references": [
+        "GUID:8a9ce5906bed1484d84e2a0c567ce347"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
